@@ -5,8 +5,8 @@ Estos son los materiales que vas a necesitar para el montaje del carro:
   - 4 Sensores ultrasónicos (3 frente, 1 atrás).
   - 1 Placa suministradora de voltaje 9V dc / 5-3.3V dc.
   - 1 Puente H TB6612.
-  - 1 Ardunio Nano Every.
-  - 1 Arduino Nicla vision.
+  - 1 Ardunio Nano Every. (https://docs.arduino.cc/hardware/nano-every/)
+  - 1 Arduino Nicla vision. (https://docs.arduino.cc/hardware/nicla-vision/)
   - 1 Botón pulsador.
   - 1 Led.
   - 2 Resistencia 220 Ohms 1/4 W.
@@ -32,3 +32,8 @@ Pasos para el montaje:
    Puedes seguir este proyecto de Wokwi: https://wokwi.com/projects/398154403214111745
 
 3) Programar el autobot con los proyectos en la parte superior.
+
+
+Notas: 
+(22-05-2024)
+En el estado actual el autobot es capaz de completar el primer reto (pista vacía sin obstaculos). Esto lo hace sin utilizar cominucación I2C y sin utilzar el Arduino Nicla Vision.
