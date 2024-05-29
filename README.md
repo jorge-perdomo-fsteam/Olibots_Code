@@ -11,10 +11,10 @@ Estos son los materiales que vas a necesitar para el montaje del carro:
   - 1 Led.
   - 2 Resistencia 220 Ohms 1/4 W.
   - 2 Capacitores cerámicos 104.
-  - 1 Regulador de voltaje L7806.
+  - 1 Regulador de voltaje L7805.
   - 1 Switch ON/OFF.
-  - 1 Porta fusible.
-  - 1 Fusible 1A.
+  - 1 Porta fusible. (opcional)
+  - 1 Fusible 1A. (opcional)
   - 1 Bornera para protoboard.
   - Cables para realizar conexiones.
   - Bateria de 12V 3S (18650 + BMS + 2 cables de salida).
